@@ -1,0 +1,10 @@
+# Unreal auto generated files #
+*/Intermediate/
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Saved
+EscapeRoom/Content/StarterContent/
+
+# VS Generated files #
+*.VC.db
